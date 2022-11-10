@@ -2,10 +2,10 @@
  This is a iOS & Android with a webpage where users can buy shoes and see their purchase & delivery history.
  
 # How to run the app
-1.From Github Repository, click on Clone
-2.Copy the clone URL
-3.In Terminal (Mac) or command line (Windows git bash), move to local directory
-4.Use the git clone command along with the copied URL
+1. From Github Repository, click on Clone
+2. Copy the clone URL
+3. In Terminal (Mac) or command line (Windows git bash), move to local directory
+4. Use the git clone command along with the copied URL
 5. download android studio
 6. install Flutter on your computer
 7. install the flutter plugin on android studio
