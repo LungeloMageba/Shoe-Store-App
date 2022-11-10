@@ -2,14 +2,17 @@
  This is a iOS & Android with a webpage where users can buy shoes and see their purchase & delivery history.
  
 # How to run the app
-1. download the project from github
-2. download android studio
-3. install Flutter on your computer
-4. install the flutter plugin on android studio
-5. open the project in android studio
-6. install all the dependencies using 'pub get'
-7. download the emulator. 
-8. run the project on the emulator you've downlaoded.
+1.From Github Repository, click on Clone
+2.Copy the clone URL
+3.In Terminal (Mac) or command line (Windows git bash), move to local directory
+4.Use the git clone command along with the copied URL
+5. download android studio
+6. install Flutter on your computer
+7. install the flutter plugin on android studio
+8. open the project in android studio
+9. install all the dependencies using 'pub get'
+10. download the emulator. 
+11. run the project on the emulator you've downlaoded.
 
 # How to use the Drivers app
 1. Sign up as a driver and Register your vehicle/ login if you already have an account.
