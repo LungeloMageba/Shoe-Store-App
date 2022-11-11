@@ -40,4 +40,4 @@
 - cloud_functions: ^3.3.9
 
 # What the app looks like
-![alt text](https://github.com/LungeloMageba/Drivers-Taxi-App/blob/master/Screenshots/Screenshot_1667499125.png)
+![alt text](https://github.com/LungeloMageba/Shoe-Store-App/blob/master/screenshots/Screenshot_1668164483.png)
