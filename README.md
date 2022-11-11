@@ -41,3 +41,4 @@
 
 # What the app looks like
 ![alt text](https://github.com/LungeloMageba/Shoe-Store-App/blob/master/screenshots/Screenshot_1668164483.png)
+![alt text](https://github.com/LungeloMageba/Shoe-Store-App/blob/master/screenshots/Screenshot_1668164452.png)
