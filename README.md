@@ -26,7 +26,6 @@
 
 # Features
   - Sign up and login
-  - Shoes Store
   - Home page
   - Stripe checkout 
   - previous purchase list
